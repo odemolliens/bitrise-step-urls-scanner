@@ -15,14 +15,6 @@ Add this step using standard Workflow Editor and provide required input environm
 
 <br/>
 
-You can launch this step:
-- directly in the step where you generate your APK/IPA, in that case, you have to launch it necessarily after these build steps
-  - `Android Build` for android
-  - `Xcode Archive` for iOS
-- **OR** in another Bitrise build than where you generate your APK/IPA, in that case, you have to setup `outside_build_slug` to download your APK/IPA to do quality checks
-
-<br/>
-
 ## Inputs
 
 The asterisks (*) mean mandatory keys
