@@ -1,6 +1,9 @@
-## Changelog (Current version: 1.0.0)
+## Changelog (Current version: 1.0.1)
 
 -----------------
+### 1.0.1
+
+* fixed typo
 
 ### 1.0.0
 

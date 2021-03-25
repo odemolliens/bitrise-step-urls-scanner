@@ -22,4 +22,4 @@ The asterisks (*) mean mandatory keys
 |Key             |Value type                     |Description    |Default value        
 |----------------|-------------|--------------|--------------|
 |ssl_labs_scan* |yes/no |Setup - Set yes if want to analyze HTTPS urls with SSSLLabs|no|
-|black_list* |String |Setup - Define a list a domains blacklisted|url;url;url]|
+|black_list* |String |Setup - Define a list a domains blacklisted|url;url;url|
