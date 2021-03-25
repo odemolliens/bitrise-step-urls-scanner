@@ -1,13 +1,6 @@
 #!/bin/bash
 set -ex
 
-# install via brew? --> SI CONFIGURE DANS LE YAML /// 
-# script est lancé a la racine du repo? OK
-# quid du dossier ou je chie les résultats //// mettre dans un dossier spécifique /deploy/
-# traitement dans le root OK
-# cp quality_report.txt $BITRISE_DEPLOY_DIR/quality_report.txt || true
-# mettre la step avant qu'on face les artefacts
-
 ###
 # Dev purpose only
 #export BITRISE_DEPLOY_DIR="./build"
