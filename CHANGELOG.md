@@ -1,6 +1,10 @@
-## Changelog (Current version: 1.0.2)
+## Changelog (Current version: 1.0.3)
 
 -----------------
+### 1.0.3
+
+* move text files into a zip files
+
 ### 1.0.2
 
 * fixed typo
