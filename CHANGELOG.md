@@ -1,6 +1,10 @@
-## Changelog (Current version: 1.0.3)
+## Changelog (Current version: 1.0.4)
 
 -----------------
+### 1.0.4
+
+* fix zip path
+
 ### 1.0.3
 
 * move text files into a zip files
