@@ -2,7 +2,7 @@
 
 # Bitrise step - Mobile apps URLS scanner
 
-This step will scan the source code of the repository to extract all HTTP/HTTPS urls and execute an analyze of those HTTPS urls with [SSLLabs](https://github.com/ssllabs/ssllabs-scan)
+This step will scan the source code of the repository to extract all HTTP/HTTPS urls and execute an analyze of those HTTPS URLs with [SSLLabs](https://github.com/ssllabs/ssllabs-scan)
 
 
 All extracted URLs & analysis (SSLlabs) will be available into the artifacts folder ($BITRISE_DEPLOY_DIR/urls-scanner/urls-found & $BITRISE_DEPLOY_DIR/urls-scanner/ssllabs-scans)
