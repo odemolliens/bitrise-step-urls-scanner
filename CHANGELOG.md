@@ -1,6 +1,10 @@
-## Changelog (Current version: 1.0.4)
+## Changelog (Current version: 1.0.5)
 
 -----------------
+### 1.0.5
+
+* fix bitrisestep
+
 ### 1.0.4
 
 * fix zip path
