@@ -3,12 +3,12 @@ set -ex
 
 ###
 # Dev purpose only
-export BITRISE_DEPLOY_DIR="./build"
-export black_list="google.com;yolo.com;apple-mapkit.com"
-export ssl_labs_scan="yes"
-rm -rf $BITRISE_DEPLOY_DIR/urls-scanner
-rm -rf $BITRISE_DEPLOY_DIR/urls-scanner/urls-found
-rm -rf $BITRISE_DEPLOY_DIR/urls-scanner/ssllabs-scans
+#export BITRISE_DEPLOY_DIR="./build"
+#export black_list="google.com;yolo.com;apple-mapkit.com"
+#export ssl_labs_scan="yes"
+#rm -rf $BITRISE_DEPLOY_DIR/urls-scanner
+#rm -rf $BITRISE_DEPLOY_DIR/urls-scanner/urls-found
+#rm -rf $BITRISE_DEPLOY_DIR/urls-scanner/ssllabs-scans
 ###
 
 mkdir $BITRISE_DEPLOY_DIR/urls-scanner
