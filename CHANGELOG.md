@@ -1,6 +1,10 @@
-## Changelog (Current version: 1.0.6)
+## Changelog (Current version: 1.0.7)
 
 -----------------
+### 1.0.7
+
+* improve documentatioon
+
 ### 1.0.6
 
 * fix bitrisestep
